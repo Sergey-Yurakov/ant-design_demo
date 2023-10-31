@@ -20,5 +20,5 @@
 
 ### Демонстрация интерфейса
 
-<img src="./src/screens/img.png" alt="prod-Proj1">
+<img src="./public/screens/img.png" alt="prod-Proj1">
 
